@@ -14,7 +14,7 @@ author: 조승목
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Hi,I'm Mok!"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
